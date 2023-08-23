@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Source\\CurriculoWeb\\CurriculoWeb\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Source\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Source\\CurriculoWeb\\CurriculoWeb\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\regis\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Source\\CurriculoWeb\\CurriculoWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\regis\\AppData\\Roaming\\NuGet\\NuGet.Config",
