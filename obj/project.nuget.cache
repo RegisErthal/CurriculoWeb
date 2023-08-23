@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0vvFP8B4LkdQkr45W68a8FOuzKpy44GHjbNfd782Yt1S/pUQ3U+ISDOUZYAfMzwGjcuHoICkZmNCOl9cQ8ntCg==",
+  "dgSpecHash": "/B+gbxCp23xDswmc2w6N66SUY7jdQ29tO7FQPRLzvggXhDitN4SJjcUPr2EYmF5+YqSftzOLJeK7/cThMljMxA==",
   "success": true,
-  "projectFilePath": "D:\\Source\\CurriculoWeb\\CurriculoWeb\\WebApplication1.csproj",
+  "projectFilePath": "D:\\Source\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
