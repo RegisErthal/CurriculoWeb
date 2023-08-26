@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vw84REciIcFhKYdF8Ru00EJZl+BLZDxK3lK5dO0ZypY=",
+  "Hash": "rEFz40L/Ir+YJK+zEEF1pbtmXvkCFsqrvmuA1aRgEqA=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -202,6 +202,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Formacoes_img\\1692756305386.jpeg"
+    },
+    {
+      "Identity": "D:\\Source\\CurriculoWeb\\CurriculoWeb\\wwwroot\\fundo-gradiente-de-conexao-de-rede_23-2148865393.avif",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Source\\CurriculoWeb\\CurriculoWeb\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "fundo-gradiente-de-conexao-de-rede_23-2148865393.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fundo-gradiente-de-conexao-de-rede_23-2148865393.avif"
     },
     {
       "Identity": "D:\\Source\\CurriculoWeb\\CurriculoWeb\\wwwroot\\IMG_20191207_194239.jpg",

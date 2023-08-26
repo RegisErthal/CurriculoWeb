@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Source\\CurriculoWeb\\CurriculoWeb\\wwwroot\\fundo-gradiente-de-conexao-de-rede_23-2148865393.avif",
+      "PackagePath": "staticwebassets\\fundo-gradiente-de-conexao-de-rede_23-2148865393.avif"
+    },
+    {
       "Id": "D:\\Source\\CurriculoWeb\\CurriculoWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
